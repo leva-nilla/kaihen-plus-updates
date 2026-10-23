@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
   "release": {
-    "version": "0.8.0",
-    "publishedAtUtc": "2026-10-16T00:00:00Z",
-    "notes": "β0.8.0の公開配布版です。Wardrobeの付属品選択、フォルダ単位の付属品分類、MochiFitterのOutputs_形式に対応しました。詳しい使い方と更新内容はBOOTH商品ページをご確認ください。",
+    "version": "0.8.5",
+    "publishedAtUtc": "2026-10-24T00:00:00Z",
+    "notes": "撮影画面を統合し、カメラ・照明・背景・Post Processの操作を改善。全画面のUIを整理し、フィードバック下書き、手動更新確認、BOOTH取得ファイルの検証・Import支援を追加しました。",
     "supportedUnity": "2022.3.22f1",
     "boothUrl": "https://vrc-levanilla.booth.pm/items/8631297",
     "boothVerified": true,
     "boothZip": {
-      "name": "Kaihen-Plus-0.8.0.zip",
-      "bytes": 613073,
-      "sha256": "ac144389d7092e7b4e1db970ff80ee601cb73c5c88544265d4ba13791382de16"
+      "name": "Kaihen-Plus-0.8.5.zip",
+      "bytes": 662399,
+      "sha256": "8a42b4e33cf2a0cd91a38e7eeebecd9914dc4f661d9de6ead95d262e20c96581"
     },
     "unitypackage": {
-      "name": "Kaihen-Plus-0.8.0.unitypackage",
-      "bytes": 612882,
-      "sha256": "76f6a39e3fc96e48d807d610ee0db75262f67ff3c70925726e61c0e357402e23"
+      "name": "Kaihen-Plus-0.8.5.unitypackage",
+      "bytes": 662156,
+      "sha256": "25adb22f4b606397e6ba18009ac69c3155c9df68eb3333cd21a5b21c4aa4cd77"
     }
   }
 }
