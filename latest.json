@@ -3,19 +3,19 @@
   "release": {
     "version": "0.8.5",
     "publishedAtUtc": "2026-10-24T00:00:00Z",
-    "notes": "撮影画面を統合し、カメラ・照明・背景・Post Processの操作を改善。全画面のUIを整理し、フィードバック下書き、手動更新確認、BOOTH取得ファイルの検証・Import支援を追加しました。",
+    "notes": "撮影と全画面UIを改善し、更新確認・BOOTH取得ファイルの検証に対応。同日修正版では正当なUnity packageのフォルダ項目を拒否する問題を修正し、不正パス・リンクの拒否を維持しました。",
     "supportedUnity": "2022.3.22f1",
     "boothUrl": "https://vrc-levanilla.booth.pm/items/8631297",
     "boothVerified": true,
     "boothZip": {
       "name": "Kaihen-Plus-0.8.5.zip",
-      "bytes": 662399,
-      "sha256": "8a42b4e33cf2a0cd91a38e7eeebecd9914dc4f661d9de6ead95d262e20c96581"
+      "bytes": 663291,
+      "sha256": "f574fc9e11d904ab1cdac74d34f05618d77a4632fa39ce9af3fb0468f7373d3a"
     },
     "unitypackage": {
       "name": "Kaihen-Plus-0.8.5.unitypackage",
-      "bytes": 662156,
-      "sha256": "25adb22f4b606397e6ba18009ac69c3155c9df68eb3333cd21a5b21c4aa4cd77"
+      "bytes": 663046,
+      "sha256": "3c13e38effabc260bea4dc4a186252a49de033dd3b6138574eac6d277819da5c"
     }
   }
 }
