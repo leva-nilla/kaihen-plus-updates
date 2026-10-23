@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "release": {
+    "version": "0.8.0",
+    "publishedAtUtc": "2026-10-16T00:00:00Z",
+    "notes": "β0.8.0の公開配布版です。Wardrobeの付属品選択、フォルダ単位の付属品分類、MochiFitterのOutputs_形式に対応しました。詳しい使い方と更新内容はBOOTH商品ページをご確認ください。",
+    "supportedUnity": "2022.3.22f1",
+    "boothUrl": "https://vrc-levanilla.booth.pm/items/8631297",
+    "boothVerified": true,
+    "boothZip": {
+      "name": "Kaihen-Plus-0.8.0.zip",
+      "bytes": 613073,
+      "sha256": "ac144389d7092e7b4e1db970ff80ee601cb73c5c88544265d4ba13791382de16"
+    },
+    "unitypackage": {
+      "name": "Kaihen-Plus-0.8.0.unitypackage",
+      "bytes": 612882,
+      "sha256": "76f6a39e3fc96e48d807d610ee0db75262f67ff3c70925726e61c0e357402e23"
+    }
+  }
+}
